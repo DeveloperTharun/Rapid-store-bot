@@ -6,8 +6,8 @@ import os
 class Config(object):
 	API_ID = 1923471
 	API_HASH = "fcdc178451cd234e63faefd38895c991"
-	BOT_TOKEN = "6410876484:AAEOm90e4BPI6H3327qMbsNozcobgn_Qd1Y"
-	BOT_USERNAME = "Rapid_File_Store_Bot"
+	BOT_TOKEN = "6698287660:AAEiiryd5VWHbZ_lM3dUOPfBRNa5ZGvWDwA"
+	BOT_USERNAME = "Ultra_File_Store_Bot"
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001509431270"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "880087645"))
 	DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://leecher:leecher@cluster0.606mkpi.mongodb.net/?retryWrites=true&w=majority")
